@@ -4,7 +4,7 @@ This is a Telegram bot developed using the Telegraf library in Node.js. The bot 
 
 ## Getting Started
 
-To use this bot, you can start a conversation with it on Telegram by following this link: [Ritick Lath Bot](https://t.me/RitickLathBot)
+To use this bot, you can start a conversation with it on Telegram by following this link: [Ritick Lath Bot](https://t.me/RitickLath_bot)
 
 ## Available Commands
 
